@@ -8,6 +8,6 @@ Objective of the Game:
 
 Controls:
   Left arrow - move the board left
-  Right arrow - move the board right
+  Right arrow - move the board righ
   Enter - restart game after losing or winning
 
